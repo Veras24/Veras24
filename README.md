@@ -1,7 +1,6 @@
 ### Olá! Sou Veras 🖥️
 
 
-
 ![VerasGitHub stats](https://github-readme-stats.vercel.app/api?username=veras24&show_icons=true&theme=radical)
 
 ## tecnologia que uso no meu dia 
