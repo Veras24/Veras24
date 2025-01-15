@@ -18,6 +18,8 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=fff&style=for-the-badge)" />
 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=for-the-badge)" />
+
 </div></br>
 
 ## Domine a tecnologia, para que não seja dominado.
