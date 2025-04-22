@@ -20,6 +20,8 @@
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=for-the-badge)" />
 
+<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge&logo=bootstrap&logoColor=white&style=for-the-badge)" />
+
 
 </div></br>
 
