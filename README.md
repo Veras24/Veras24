@@ -4,7 +4,8 @@
 
 
 
-## tecnologia que uso no meu dia 
+## Tecnologia que uso no meu dia  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/db0dafc3-67c2-4606-8db6-30637a20b1e5" />
+
 
 <div style="display: inline_block"></br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)" />
