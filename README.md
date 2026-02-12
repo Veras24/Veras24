@@ -4,7 +4,7 @@
 
 
 
-## Tecnologia que uso no meu dia  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/db0dafc3-67c2-4606-8db6-30637a20b1e5" />
+## Tecnologia que uso no meu dia 🛠️
 
 
 <div style="display: inline_block"></br>
